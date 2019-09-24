@@ -11,4 +11,4 @@ We are on a mission to find value and rental investment properties. These notebo
 Here are some questions we hope to answer:
 
 1. Identify potential value and rental investment properties in the USA using Zillow datasets.
-2. Identify properties of different investmer properties that affect value and rental appeal (using Machine Learning).
+2. Identify features of different investment properties that affect value and rental appeal (using Machine Learning).
